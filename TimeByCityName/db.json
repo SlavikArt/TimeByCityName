@@ -1,0 +1,355 @@
+[
+{
+    "tZCode" : "Morocco Standard Time",
+    "tZDesc" : "(GMT) Casablanca"
+},
+{
+    "tZCode" : "GMT Standard Time",
+    "tZDesc" : "(GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+},
+{
+    "tZCode" : "Greenwich Standard Time",
+    "tZDesc" : "(GMT) Monrovia, Reykjavik"
+},
+{
+    "tZCode" : "W. Europe Standard Time",
+    "tZDesc" : "(GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+},
+{
+    "tZCode" : "Central Europe Standard Time",
+    "tZDesc" : "(GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+},
+{
+    "tZCode" : "Romance Standard Time",
+    "tZDesc" : "(GMT+01:00) Brussels, Copenhagen, Madrid, Paris"
+},
+{
+    "tZCode" : "Central European Standard Time",
+    "tZDesc" : "(GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb"
+},
+{
+    "tZCode" : "W. Central Africa Standard Time",
+    "tZDesc" : "(GMT+01:00) West Central Africa"
+},
+{
+    "tZCode" : "Jordan Standard Time",
+    "tZDesc" : "(GMT+02:00) Amman"
+},
+{
+    "tZCode" : "GTB Standard Time",
+    "tZDesc" : "(GMT+02:00) Athens, Bucharest, Istanbul"
+},
+{
+    "tZCode" : "Middle East Standard Time",
+    "tZDesc" : "(GMT+02:00) Beirut"
+},
+{
+    "tZCode" : "Egypt Standard Time",
+    "tZDesc" : "(GMT+02:00) Cairo"
+},
+{
+    "tZCode" : "South Africa Standard Time",
+    "tZDesc" : "(GMT+02:00) Harare, Pretoria"
+},
+{
+    "tZCode" : "FLE Standard Time",
+    "tZDesc" : "(GMT+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+},
+{
+    "tZCode" : "Israel Standard Time",
+    "tZDesc" : "(GMT+02:00) Jerusalem"
+},
+{
+    "tZCode" : "E. Europe Standard Time",
+    "tZDesc" : "(GMT+02:00) Minsk"
+},
+{
+    "tZCode" : "Namibia Standard Time",
+    "tZDesc" : "(GMT+02:00) Windhoek"
+},
+{
+    "tZCode" : "Arabic Standard Time",
+    "tZDesc" : "(GMT+03:00) Baghdad"
+},
+{
+    "tZCode" : "Arab Standard Time",
+    "tZDesc" : "(GMT+03:00) Kuwait, Riyadh"
+},
+{
+    "tZCode" : "Russian Standard Time",
+    "tZDesc" : "(GMT+03:00) Moscow, St. Petersburg, Volgograd"
+},
+{
+    "tZCode" : "E. Africa Standard Time",
+    "tZDesc" : "(GMT+03:00) Nairobi"
+},
+{
+    "tZCode" : "Georgian Standard Time",
+    "tZDesc" : "(GMT+03:00) Tbilisi"
+},
+{
+    "tZCode" : "Iran Standard Time",
+    "tZDesc" : "(GMT+03:30) Tehran"
+},
+{
+    "tZCode" : "Arabian Standard Time",
+    "tZDesc" : "(GMT+04:00) Abu Dhabi, Muscat"
+},
+{
+    "tZCode" : "Azerbaijan Standard Time",
+    "tZDesc" : "(GMT+04:00) Baku"
+},
+{
+    "tZCode" : "Mauritius Standard Time",
+    "tZDesc" : "(GMT+04:00) Port Louis"
+},
+{
+    "tZCode" : "Caucasus Standard Time",
+    "tZDesc" : "(GMT+04:00) Yerevan"
+},
+{
+    "tZCode" : "Afghanistan Standard Time",
+    "tZDesc" : "(GMT+04:30) Kabul"
+},
+{
+    "tZCode" : "Ekaterinburg Standard Time",
+    "tZDesc" : "(GMT+05:00) Ekaterinburg"
+},
+{
+    "tZCode" : "Pakistan Standard Time",
+    "tZDesc" : "(GMT+05:00) Islamabad, Karachi"
+},
+{
+    "tZCode" : "West Asia Standard Time",
+    "tZDesc" : "(GMT+05:00) Tashkent"
+},
+{
+    "tZCode" : "India Standard Time",
+    "tZDesc" : "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi"
+},
+{
+    "tZCode" : "Sri Lanka Standard Time",
+    "tZDesc" : "(GMT+05:30) Sri Jayawardenepura"
+},
+{
+    "tZCode" : "Nepal Standard Time",
+    "tZDesc" : "(GMT+05:45) Kathmandu"
+},
+{
+    "tZCode" : "N. Central Asia Standard Time",
+    "tZDesc" : "(GMT+06:00) Almaty, Novosibirsk"
+},
+{
+    "tZCode" : "Central Asia Standard Time",
+    "tZDesc" : "(GMT+06:00) Astana, Dhaka"
+},
+{
+    "tZCode" : "Myanmar Standard Time",
+    "tZDesc" : "(GMT+06:30) Yangon (Rangoon)"
+},
+{
+    "tZCode" : "SE Asia Standard Time",
+    "tZDesc" : "(GMT+07:00) Bangkok, Hanoi, Jakarta"
+},
+{
+    "tZCode" : "North Asia Standard Time",
+    "tZDesc" : "(GMT+07:00) Krasnoyarsk"
+},
+{
+    "tZCode" : "China Standard Time",
+    "tZDesc" : "(GMT+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+},
+{
+    "tZCode" : "North Asia East Standard Time",
+    "tZDesc" : "(GMT+08:00) Irkutsk, Ulaan Bataar"
+},
+{
+    "tZCode" : "Singapore Standard Time",
+    "tZDesc" : "(GMT+08:00) Kuala Lumpur, Singapore"
+},
+{
+    "tZCode" : "W. Australia Standard Time",
+    "tZDesc" : "(GMT+08:00) Perth"
+},
+{
+    "tZCode" : "Taipei Standard Time",
+    "tZDesc" : "(GMT+08:00) Taipei"
+},
+{
+    "tZCode" : "Tokyo Standard Time",
+    "tZDesc" : "(GMT+09:00) Osaka, Sapporo, Tokyo"
+},
+{
+    "tZCode" : "Korea Standard Time",
+    "tZDesc" : "(GMT+09:00) Seoul"
+},
+{
+    "tZCode" : "Yakutsk Standard Time",
+    "tZDesc" : "(GMT+09:00) Yakutsk"
+},
+{
+    "tZCode" : "Cen. Australia Standard Time",
+    "tZDesc" : "(GMT+09:30) Adelaide"
+},
+{
+    "tZCode" : "AUS Central Standard Time",
+    "tZDesc" : "(GMT+09:30) Darwin"
+},
+{
+    "tZCode" : "E. Australia Standard Time",
+    "tZDesc" : "(GMT+10:00) Brisbane"
+},
+{
+    "tZCode" : "AUS Eastern Standard Time",
+    "tZDesc" : "(GMT+10:00) Canberra, Melbourne, Sydney"
+},
+{
+    "tZCode" : "West Pacific Standard Time",
+    "tZDesc" : "(GMT+10:00) Guam, Port Moresby"
+},
+{
+    "tZCode" : "Tasmania Standard Time",
+    "tZDesc" : "(GMT+10:00) Hobart"
+},
+{
+    "tZCode" : "Vladivostok Standard Time",
+    "tZDesc" : "(GMT+10:00) Vladivostok"
+},
+{
+    "tZCode" : "Central Pacific Standard Time",
+    "tZDesc" : "(GMT+11:00) Magadan, Solomon Is., New Caledonia"
+},
+{
+    "tZCode" : "New Zealand Standard Time",
+    "tZDesc" : "(GMT+12:00) Auckland, Wellington"
+},
+{
+    "tZCode" : "Fiji Standard Time",
+    "tZDesc" : "(GMT+12:00) Fiji, Kamchatka, Marshall Is."
+},
+{
+    "tZCode" : "Tonga Standard Time",
+    "tZDesc" : "(GMT+13:00) Nuku'alofa"
+},
+{
+    "tZCode" : "Azores Standard Time",
+    "tZDesc" : "(GMT-01:00) Azores"
+},
+{
+    "tZCode" : "Cape Verde Standard Time",
+    "tZDesc" : "(GMT-01:00) Cape Verde Is."
+},
+{
+    "tZCode" : "Mid-Atlantic Standard Time",
+    "tZDesc" : "(GMT-02:00) Mid-Atlantic"
+},
+{
+    "tZCode" : "E. South America Standard Time",
+    "tZDesc" : "(GMT-03:00) Brasilia"
+},
+{
+    "tZCode" : "Argentina Standard Time",
+    "tZDesc" : "(GMT-03:00) Buenos Aires"
+},
+{
+    "tZCode" : "SA Eastern Standard Time",
+    "tZDesc" : "(GMT-03:00) Georgetown"
+},
+{
+    "tZCode" : "Greenland Standard Time",
+    "tZDesc" : "(GMT-03:00) Greenland"
+},
+{
+    "tZCode" : "Montevideo Standard Time",
+    "tZDesc" : "(GMT-03:00) Montevideo"
+},
+{
+    "tZCode" : "Newfoundland Standard Time",
+    "tZDesc" : "(GMT-03:30) Newfoundland"
+},
+{
+    "tZCode" : "Atlantic Standard Time",
+    "tZDesc" : "(GMT-04:00) Atlantic Time (Canada)"
+},
+{
+    "tZCode" : "SA Western Standard Time",
+    "tZDesc" : "(GMT-04:00) La Paz"
+},
+{
+    "tZCode" : "Central Brazilian Standard Time",
+    "tZDesc" : "(GMT-04:00) Manaus"
+},
+{
+    "tZCode" : "Pacific SA Standard Time",
+    "tZDesc" : "(GMT-04:00) Santiago"
+},
+{
+    "tZCode" : "Venezuela Standard Time",
+    "tZDesc" : "(GMT-04:30) Caracas"
+},
+{
+    "tZCode" : "SA Pacific Standard Time",
+    "tZDesc" : "(GMT-05:00) Bogota, Lima, Quito, Rio Branco"
+},
+{
+    "tZCode" : "Eastern Standard Time",
+    "tZDesc" : "(GMT-05:00) Eastern Time (US & Canada)"
+},
+{
+    "tZCode" : "US Eastern Standard Time",
+    "tZDesc" : "(GMT-05:00) Indiana (East)"
+},
+{
+    "tZCode" : "Central America Standard Time",
+    "tZDesc" : "(GMT-06:00) Central America"
+},
+{
+    "tZCode" : "Central Standard Time",
+    "tZDesc" : "(GMT-06:00) Central Time (US & Canada)"
+},
+{
+    "tZCode" : "Central Standard Time (Mexico)",
+    "tZDesc" : "(GMT-06:00) Guadalajara, Mexico City, Monterrey"
+},
+{
+    "tZCode" : "Canada Central Standard Time",
+    "tZDesc" : "(GMT-06:00) Saskatchewan"
+},
+{
+    "tZCode" : "US Mountain Standard Time",
+    "tZDesc" : "(GMT-07:00) Arizona"
+},
+{
+    "tZCode" : "Mountain Standard Time (Mexico)",
+    "tZDesc" : "(GMT-07:00) Chihuahua, La Paz, Mazatlan"
+},
+{
+    "tZCode" : "Mountain Standard Time",
+    "tZDesc" : "(GMT-07:00) Mountain Time (US & Canada)"
+},
+{
+    "tZCode" : "Pacific Standard Time",
+    "tZDesc" : "(GMT-08:00) Pacific Time (US & Canada)"
+},
+{
+    "tZCode" : "Pacific Standard Time (Mexico)",
+    "tZDesc" : "(GMT-08:00) Tijuana, Baja California"
+},
+{
+    "tZCode" : "Alaskan Standard Time",
+    "tZDesc" : "(GMT-09:00) Alaska"
+},
+{
+    "tZCode" : "Hawaiian Standard Time",
+    "tZDesc" : "(GMT-10:00) Hawaii"
+},
+{
+    "tZCode" : "Samoa Standard Time",
+    "tZDesc" : "(GMT-11:00) Midway Island, Samoa"
+},
+{
+    "tZCode" : "Dateline Standard Time",
+    "tZDesc" : "(GMT-12:00) International Date Line West"
+}
+
+]
